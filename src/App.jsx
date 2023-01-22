@@ -12,7 +12,6 @@ function App() {
         <Card company={"Сказочное заморское яство"} title={"Нямушка"} taste={"с фуа-гра"} giftItems={[<><b>10</b> порций</>, <>мышь в подарок</>]} imgPath={catImg} weightCount={"0,5"} weightType={"кг"} disabled={false}/>
         <Card company={"Сказочное заморское яство"} title={"Нямушка"} taste={"с рыбой"} giftItems={[<><b>40</b> порций </>, <>мышь в подарок</>]} imgPath={catImg} weightCount={"0,5"} weightType={"кг"} disabled={false}/>
         <Card company={"Сказочное заморское яство"} title={"Нямушка"} taste={"с рыбой"} giftItems={[<><b>40</b> порций </>, <>мышь в подарок</>]} imgPath={catImg} weightCount={"0,5"} weightType={"кг"} disabled={true}/>
-
       </div>
     </div>
   )
